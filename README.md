@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+#### I'm Charlotte, a 24 year old currently training in web development at BeCode Liège
+
+Welcome to my Github !
 <!--
 **CharlotteMoureau/CharlotteMoureau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
