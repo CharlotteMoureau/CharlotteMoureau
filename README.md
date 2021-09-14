@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-#### I'm Charlotte, a 24 year old currently training in web development at BeCode Liège
+#### I'm Charlotte, a 25 year old currently training in web development at BeCode Liège
 
 Welcome to my Github !
 <!--
